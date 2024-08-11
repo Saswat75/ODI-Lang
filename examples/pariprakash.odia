@@ -1,0 +1,4 @@
+maneKara nama = "Saswat Mohanty";
+maneKara chhadmanama = "Sipun";
+pariprakashKara(nama, chhadmanama);
+

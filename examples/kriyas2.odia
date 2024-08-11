@@ -1,0 +1,15 @@
+kriya kichikara(x, y)
+{
+    pariprakashKara(x);
+    pariprakashKara(y);
+};
+
+kichikara("Jay", "Jagannath");
+
+
+kriya namakuha(nama)
+{
+    pariprakashKara(nama);
+};
+
+namakuha("Saswat Mohanty");

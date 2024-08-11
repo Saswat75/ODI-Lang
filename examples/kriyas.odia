@@ -1,0 +1,9 @@
+kriya kichikara()
+{
+    pariprakashKara("Kriya rw agamana!");
+};
+
+kichikara();
+kichikara();
+
+
